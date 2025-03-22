@@ -1,2 +1,11 @@
 :root {
+  --white: #fff;
+  --black: #000;
+  --blue: #00afff;
+  --background-blue: #03001b;
+  --gradient: linear-gradient(
+    180deg,
+    #00afff 31.25%,
+    rgba(0, 175, 255, 0) 100%
+  );
 }
